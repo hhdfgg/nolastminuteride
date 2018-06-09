@@ -1,9 +1,9 @@
 # nolastminuteride
  - [駆け込み乗車はおやめください](https://hhdfgg.github.io/nolastminuteride/WebGL/)
  
-[![Title](Image/Giri_Title.jpg)](https://hhdfgg.github.io/nolastminuteride/WebGL/)]
+[![Title](Image/Giri_Title.jpg)](https://hhdfgg.github.io/nolastminuteride/WebGL/)
 
-[![Title](Image/Giri_Game.gif)](https://hhdfgg.github.io/nolastminuteride/WebGL/)]
+[![Title](Image/Giri_Game.gif)](https://hhdfgg.github.io/nolastminuteride/WebGL/)
 
 # unityroomの１週間ゲームジャム「ぎりぎり」
  - 使用アセット
