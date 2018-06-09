@@ -1,5 +1,5 @@
 # nolastminuteride
-[![Title](Image/Giri_Title.jpg)](nolastminuteride/WebGL)
+[![Title](Image/Giri_Title.jpg)](WebGL)
 
 # unityroomの１週間ゲームジャム「ぎりぎり」
  - 
