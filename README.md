@@ -12,7 +12,7 @@
  - 10秒間クリックして加速度をためて走れ
  - 間に合えばクリアですが、<font color="Red"><b>駆け込み乗車は危険ですのでおやめください。</b></font>
  - 判定はシビアです。
- - unityroom上では、画面外をクリックしたら停止するようになっています。疲れたら休憩してね！
+ - unityroom上では、画面外をクリックしたら停止するようになっています。疲れたら休憩してくださいね！
 
  ## 使用アセット
    - [ファイティングユニティちゃん　無料お試しアセット](https://assetstore.unity.com/packages/3d/animations/hq-fighting-animation-free-33478)
