@@ -81,3 +81,19 @@
 ---
 
 - あと、途中経過などのスクリーンショットやGIFなどを残しておいたりすると良いと思いました。
+
+# ニフクラのNCMBを利用したAndroidビルドの注意
+ - [なるべく簡単にオンラインランキング機能をつけるサンプル（無料）](http://blog.naichilab.com/entry/webgl-simple-ranking)を使用したAndroidビルドの注意点<br>
+ - Unity 2018.1.0f2
+ 
+- エラー内容
+  - 端末の方でインストールできず「パッケージの解析中に問題が発生しました」が出てきた。
+
+- 検索
+  - 「unity android パッケージの解析中に問題が発生しました」で検索
+  - ヒット
+  - [UnityでNCMB使用時にAndroidビルドするとインストール出来ない問題](http://saitetutan.hatenablog.jp/entry/2016/09/16/230116)
+  
+- 対処
+ - [UnityでNCMB使用時にAndroidビルドするとインストール出来ない問題](http://saitetutan.hatenablog.jp/entry/2016/09/16/230116)を参考にして、<br>"<b>Plugins</b>フォルダの<b>Android</b>フォルダにある<b>AndroidManifest.xml</b>をVisual Studioで開く"<br>"<b>AndroidManifest.xml</b>"の中の"YOUR PACKAGE NAME"を"Player Settings"の"Pakage Name"と同じにする。だいたい3～4個ほどある。<br>※"Player Settings"の"Pakage Name"はデフォルトの名前ではビルドの時にエラーが出るので、"com.自分のCompany Name.自分のProduct Name"に変更してください。"Company Name"と"Product Name"は"Player Settings"の一番上にあると思います。
+- これで、端末にインストールできると思います。
