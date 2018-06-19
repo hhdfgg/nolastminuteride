@@ -91,7 +91,6 @@
 
 - 検索
   - 「unity android パッケージの解析中に問題が発生しました」で検索
-  - ヒット
   - [UnityでNCMB使用時にAndroidビルドするとインストール出来ない問題](http://saitetutan.hatenablog.jp/entry/2016/09/16/230116)
   
 - 対処
