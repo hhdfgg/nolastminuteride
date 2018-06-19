@@ -94,5 +94,5 @@
   - [UnityでNCMB使用時にAndroidビルドするとインストール出来ない問題](http://saitetutan.hatenablog.jp/entry/2016/09/16/230116)
   
 - 対処
- - [UnityでNCMB使用時にAndroidビルドするとインストール出来ない問題](http://saitetutan.hatenablog.jp/entry/2016/09/16/230116)を参考にして、<br>"<b>Plugins</b>フォルダの<b>Android</b>フォルダにある<b>AndroidManifest.xml</b>をVisual Studioで開く"<br>"<b>AndroidManifest.xml</b>"の中の<b>"YOUR PACKAGE NAME"</b>を<b>"Player Settings"</b>の<b>"Pakage Name"</b>と同じにする。<br>だいたい3～4個ほどある。<br>※"Player Settings"の"Pakage Name"はデフォルトの名前ではビルドの時にエラーが出るので、"com.自分のCompany Name.自分のProduct Name"に変更してください。"Company Name"と"Product Name"は"Player Settings"の一番上にあると思います。
-- これで、端末にインストールできると思います。
+  - [UnityでNCMB使用時にAndroidビルドするとインストール出来ない問題](http://saitetutan.hatenablog.jp/entry/2016/09/16/230116)を参考にして、<br>"<b>Plugins</b>フォルダの<b>Android</b>フォルダにある<b>AndroidManifest.xml</b>をVisual Studioで開く"<br>"<b>AndroidManifest.xml</b>"の中の<b>"YOUR PACKAGE NAME"</b>を<b>"Player Settings"</b>の<b>"Pakage Name"</b>と同じにする。<br>だいたい3～4個ほどある。<br>※"Player Settings"の"Pakage Name"はデフォルトの名前ではビルドの時にエラーが出るので、"com.自分のCompany Name.自分のProduct Name"に変更してください。"Company Name"と"Product Name"は"Player Settings"の一番上にあると思います。
+ - これで、端末にインストールできると思います。
