@@ -18,7 +18,7 @@
  ---
  - 製作期間:2018年6月4日～6月10日
  - 公開日:2018年6月10日
- - [Android用パッケージ](apk/NoLastMinuteRide.apk)<br>※インストール時の名前がOneWeekGiriGriになりますがご了承ください。
+ - [Android用パッケージ](https://github.com/hhdfgg/nolastminuteride/apk/NoLastMinuteRide.apk)<br>※インストール時の名前がOneWeekGiriGriになりますがご了承ください。
 
  ## 使用アセット
    - [ファイティングユニティちゃん　無料お試しアセット](https://assetstore.unity.com/packages/3d/animations/hq-fighting-animation-free-33478)
